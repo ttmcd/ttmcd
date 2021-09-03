@@ -1,0 +1,29 @@
+.sort {
+  float: left;
+}
+
+.images {
+  display: flex;
+}
+
+.left-image {
+  width: 50%;
+  height: 50%;
+}
+
+.right-image {
+  width: 50%;
+  height: 50%;
+}
+
+.footer p:hover {
+  font-size: 30px;
+}
+
+.footer input:hover{
+  font-size: 30px;
+}
+
+.footer input:focus {
+  background-color: pink;
+}
